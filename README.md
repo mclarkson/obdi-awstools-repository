@@ -10,4 +10,5 @@ Further documentation is available from the 'view' links below.
 |        Name          |  Description     |        URL                                                   |
 |----------------------|------------------|--------------------------------------------------------------|
 | aws-p2ec2   | Creates an Amazon EC2 instance from backup files. | [view](https://github.com/mclarkson/obdi-aws-p2ec2) |
+| aws-ec2lib   | Amazon AWS EC2 REST API library. | [view](https://github.com/mclarkson/obdi-aws-ec2lib) |
 
