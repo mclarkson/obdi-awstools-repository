@@ -1,0 +1,6 @@
+{
+  "name": "Obdi-awstools-repository",
+  "tagline": "Repository of AWS tools.",
+  "body": "# obdi-awstools-repository\r\nRepository metadata store for Obdi system plugins.\r\n\r\nAdd `https://github.com/mclarkson/obdi-awstools-repository.git` to Repository URLs in the Obdi Admin interface.\r\n\r\nFurther documentation is available from the 'view' links below.\r\n\r\n## Contains\r\n\r\n|        Name          |  Description     |        URL                                                   |\r\n|----------------------|------------------|--------------------------------------------------------------|\r\n| aws-p2ec2   | Creates an Amazon EC2 instance from backup files. | [view](https://github.com/mclarkson/obdi-aws-p2ec2) |\r\n| aws-ec2lib   | Amazon AWS EC2 REST API library. | [view](https://github.com/mclarkson/obdi-aws-ec2lib) |\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
